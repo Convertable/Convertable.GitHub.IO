@@ -3,7 +3,9 @@
 
 module.exports = {
     
-    content : [ './Source/**.{html,js}' ] ,
+    darkMode : 'class' ,
+    
+    content : [ './Public/**/*.{html,js}' ] ,
     
     plugins : [] ,
 
